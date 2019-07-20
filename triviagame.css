@@ -1,0 +1,143 @@
+.choice {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+
+.choice20 {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+.choice30 {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+
+.choice40 {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+
+.choice50 {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+
+.choice60 {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+
+.choice70 {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+
+.choice80 {
+    text-align: center;
+    font-size: 30px;
+    align-self: center;
+}
+
+#timeremain {
+    text-align: center;
+}
+
+#gametitle {
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+}
+
+#question {
+    font-size: 26px;
+    text-align: center;
+}
+
+#para {
+    text-align: center;
+}
+
+#startbutton {
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+}
+
+#start {
+    font-size: 36px;
+    height: 46px;
+    width: 400px;
+}
+
+#TUcomment {
+    font-size: 26px;
+
+}
+
+#main {
+    border: 2px, red;
+    background-color: rgb(107, 202, 247);
+    width: 1000px;
+    height: 750px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#background {
+    background-image: url('sports.jpeg')
+}
+
+#Answer {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#newgame {
+    font-size: 44px;
+    font-weight: bold;
+}
+
+#time {
+    font-size: 30px;
+}
+
+#time2 {
+    font-size: 30px;
+}
+
+#time3 {
+    font-size: 30px;
+}
+
+#time4 {
+    font-size: 30px;
+}
+
+#time5 {
+    font-size: 30px;
+}
+
+#time6 {
+    font-size: 30px;
+}
+
+#time7 {
+    font-size: 30px;
+}
+
+#time8 {
+    font-size: 30px;
+}
